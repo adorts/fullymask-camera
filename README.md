@@ -1,3 +1,7 @@
+<img width="1280" height="800" alt="Screenshot 2026-09-20 220853" src="https://github.com/user-attachments/assets/0703fdd1-8733-4191-bd8e-2ee8945a44d9" />
+
+
+
 # FullyMask Camera
 
 FullyMask Camera is a Windows desktop application that exposes browser content or an integrated webcam through one persistent Windows virtual camera. Applications such as WhatsApp, Telegram, Windows Camera, OBS, Zoom, and browser-based meeting tools can remain connected to **FullyMask Camera** while the user changes the source inside the FullyMask control application.
